@@ -2,6 +2,7 @@ import React, { useState, useEffect } from "react";
 import Formulario from "./components/Formulario";
 import ListadoImagenes from "./components/ListadoImagenes";
 
+//Terminado
 function App() {
     //States
     const [busqueda, guardarBusqueda] = useState("");
